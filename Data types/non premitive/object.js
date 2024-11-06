@@ -1,4 +1,7 @@
-var a=10;
-var b="javascript";
-console.log(a);
-console.log(b);
+const person = {
+    firstName : "John",
+    lastName  : "Doe",
+    age     : 50,
+    eyeColor  : "blue"
+  };
+  console.log(person);
